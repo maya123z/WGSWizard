@@ -40,7 +40,7 @@ The `wgsblast` function performs a tBLASTn search against the NCBI WGS Database 
 
 This step often takes 30 seconds or more, depending on the database.
 
-### Finding the full gene sewuence: wgsseq
+### Finding the full gene sequence: wgsseq
 
 The `wgsseq` function is the meat of this module! Let's take a look at the steps that this function takes in order to track down the full DNA and protein sequence for a BLAST query.
 
