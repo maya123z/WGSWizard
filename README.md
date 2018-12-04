@@ -22,7 +22,7 @@ PhyML: http://www.atgc-montpellier.fr/phyml/
 
 ### Installation
 
-You can install WGS Wizard directly from Github.
+You can install WGS Wizard directly from Github using the green "Clone or download' button.
 
 ## Usage
 
